@@ -1,1 +1,2 @@
 # myFirstChromeExtension
+- A chrome extension.
